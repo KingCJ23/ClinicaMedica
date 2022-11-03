@@ -1,0 +1,53 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.fondoHeader {
+    background-color: #07d3ff;
+    padding: 10px;
+}
+
+footer {
+    position: absolute !important;
+    bottom: 50 !important;
+    color: white !important;
+    width: 100% !important;
+    background: white !important;
+    margin-bottom: -1px !important;
+  
+}
+
+
+.top-bar-margen {
+    margin-top: -33px;
+}
+
+body {
+    background: #d5fff2;
+}
+
+.menuOpciones {
+    background: #92fbfb;
+
+}
+
+.menu_opcion {
+    color: black !important;
+    
+}
+
+.bodypagina{
+    height: max-content;
+}
+
+
